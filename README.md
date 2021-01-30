@@ -1,4 +1,4 @@
-# proj71-export-islua-build
+# proj71-islua-build-export
 
 为 isula-build 实现 export 接口：将镜像导出为 rootfs
 
